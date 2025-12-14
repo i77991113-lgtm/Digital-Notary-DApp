@@ -1,18 +1,18 @@
 # 🔏 Digital Notary DApp
 
-> Децентрализованный цифровой нотариат на блокчейне
-> Регистрация авторских прав за 1 минуту
+> Decentralized blockchain notary service
+> Register copyright in 1 minute
 
-## 🌐 Живое приложение
-**Доступно по адресу:** https://digitalnotary.online
+## 🌐 Live Application
+**Available at:** https://digitalnotary.online
 
-## ✨ Главные особенности:
-- **⚡ Быстро:** Фиксация прав за 60 секунд.
-- **🔐 Надёжно:** Патентованная технология Commit-Reveal.
-- **⚖️ Законно:** Blockchain-запись — это юридическое доказательство.
+## ✨ Key Features:
+- **⚡ Fast:** Rights fixation in 60 seconds.
+- **🔐 Secure:** Patented Commit-Reveal technology.
+- **⚖️ Legally Valid:** Blockchain record serves as legal proof.
 
 ## 🛡️ Proof of First
-Этот проект является первоисточником. Факт создания и деплоя зафиксирован в документе `PROOF_OF_ORIGIN.md` и в блокчейне.
+This project is the original source. The fact of creation and deployment is recorded in the `PROOF_OF_ORIGIN.md` document and on the blockchain.
 
 ---
-*Проект находится в активной разработке. Обновлено: 15.12.2025*
+*Project is under active development. Last updated: 15.12.2025*
