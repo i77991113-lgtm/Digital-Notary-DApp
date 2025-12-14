@@ -1,54 +1,54 @@
 # 🛡️ Proof of Origin - Digital Notary DApp
-## Доказательство авторства и первенства
+## Proof of Authorship and First Implementation
 
-### 📅 Дата создания документа: 14.12.2025
+### 📅 Document Creation Date: December 14, 2025
 
-### 👤 Автор проекта:
-- **Имя/Псевдоним:** Ivan
-- **GitHub аккаунт:** i77991113-lgtm
-- **Контакт для верификации:** i77991113@gmail.com
+### 👤 Project Author:
+- **Name/Pseudonym:** Ivan
+- **GitHub Account:** i77991113-lgtm
+- **Contact for Verification:** i77991113@gmail.com
 
-### 🚀 Суть проекта:
-**Digital Notary DApp** - децентрализованный сервис цифрового нотариата на блокчейне, позволяющий за 1 минуту зафиксировать авторские права на любой цифровой контент с использованием технологии commit-reveal для максимальной защиты.
+### 🚀 Project Essence:
+**Digital Notary DApp** - a decentralized blockchain notary service that allows you to register copyright for any digital content in 1 minute using commit-reveal technology for maximum protection.
 
-### 🔐 Уникальные особенности МОЕЙ реализации:
-1. **Commit-Reveal с перезаписью коммитов** - защита от front-running атак
-2. **Поддержка 7 блокчейн-сетей** (Polygon, Ethereum, Optimism, Arbitrum, Base, Sepolia, Amoy)
-3. **Полный юридически значимый цикл** (регистрация → верификация → передача прав)
-4. **Автоматическая проверка баланса** и умные уведомления
-5. **PWA-готовое приложение** с оффлайн-работой
+### 🔐 Unique Features of MY Implementation:
+1. **Commit-Reveal with Commit Overwrite** - protection against front-running attacks
+2. **Support for 7 Blockchain Networks** (Polygon, Ethereum, Optimism, Arbitrum, Base, Sepolia, Amoy)
+3. **Complete Legally Significant Cycle** (registration → verification → rights transfer)
+4. **Automatic Balance Check** and smart notifications
+5. **PWA-Ready Application** with offline functionality
 
-### 📍 Доказательства первенства:
+### 📍 Proof of First:
 
-#### 1. Деплой контрактов (живые адреса):
+#### 1. Contract Deployments (Live Addresses):
 - **Polygon Mainnet:** `0xEa6130eBe3c79fa7f209568030EC78Ac321890C4`
-  - **Транзакция создания:** `0x4db79abb000a8db7d56f38f647b5b1c037824cbad76b95e45fa1eb0c909a8ffb`
-  - **Дата и время деплоя:** `10 декабря 2025 года, 08:42:24 UTC`
-  - **Блок:** `80125501`
-  - **Ссылка для проверки:** https://polygonscan.com/tx/0x4db79abb000a8db7d56f38f647b5b1c037824cbad76b95e45fa1eb0c909a8ffb
+  - **Creation Transaction:** `0x4db79abb000a8db7d56f38f647b5b1c037824cbad76b95e45fa1eb0c909a8ffb`
+  - **Deployment Date & Time:** `December 10, 2025, 08:42:24 UTC`
+  - **Block:** `80125501`
+  - **Verification Link:** https://polygonscan.com/tx/0x4db79abb000a8db7d56f38f647b5b1c037824cbad76b95e45fa1eb0c909a8ffb
 - **Polygon Amoy Testnet:** `0xBCAA53BD8AC2400647E14DA06fec17d9F7ecF949`
 - **Ethereum Sepolia Testnet:** `0x3Adfa699e45F614f85AA9d91a33473306B5a3dFa`
 
-#### 2. Работающий продакшен:
-- **Домен:** https://digitalnotary.online 
-- **Фронтенд:** Задеплоен на Netlify с автоматическим CI/CD
-- **Индексация:** Проиндексирован Google и Яндекс 
+#### 2. Working Production:
+- **Domain:** https://digitalnotary.online
+- **Frontend:** Deployed on Netlify with automatic CI/CD
+- **Indexing:** Indexed by Google and Yandex
 
-#### 3. Технические инновации:
-- Кастомная реализация commit-reveal с userToCommit mapping
-- Интеграция Binance API для реальных цен токенов
-- Полная мультиязычность (RU/EN) с детальными соглашениями
+#### 3. Technical Innovations:
+- Custom commit-reveal implementation with userToCommit mapping
+- Binance API integration for real token prices
+- Full multilingual support (RU/EN) with detailed agreements
 
-### ⚖️ Юридический статус:
-Данный документ является цифровым доказательством авторства и первенства в создании проекта Digital Notary DApp. Все реализации, появившиеся после 14.12.2025 , являются производными от данной работы.
+### ⚖️ Legal Status:
+This document serves as digital proof of authorship and first implementation in creating the Digital Notary DApp project. All implementations appearing after December 14, 2025 are derivatives of this work.
 
-### 🔗 Ссылки для верификации:
-1. GitHub репозиторий (приватный): https://github.com/i77991113-lgtm/Digital-Notarius/
-2. Рабочее приложение: https://digitalnotary.online
-3. Blockchain транзакции деплоя: 0x4db79abb000a8db7d56f38f647b5b1c037824cbad76b95e45fa1eb0c909a8ffb
+### 🔗 Verification Links:
+1. GitHub Repository (Private): https://github.com/i77991113-lgtm/Digital-Notarius/
+2. Working Application: https://digitalnotary.online
+3. Blockchain Deployment Transaction: 0x4db79abb000a8db7d56f38f647b5b1c037824cbad76b95e45fa1eb0c909a8ffb
 
 ---
-*Документ создан и подписан цифровым отпечатком репозитория: [Git SHA хэш будет здесь]*
+*Document created and signed with the repository's digital fingerprint: [Git SHA hash will be here]*
 
 
 
