@@ -42,11 +42,11 @@
 ### 🔏 Digital Notarization
 
 #### Proof #1: Project Documentation
-*Documentation snapshot hash (SHA256): 460b7e24751392b2f37dd759106c310a951e61701c4d9ed254c4eed16ca6417f*
+*Documentation snapshot hash (SHA256):* `460b7e24751392b2f37dd759106c310a951e61701c4d9ed254c4eed16ca6417f`
 *Created: December 15, 2025*
 
 #### Proof #2: Source Code
-*Source code hash (SHA256): 0bac1edc867d3f91a5ca0475da53d1858cf1d451f0e37354df4288f340634a46*
+*Source code hash (SHA256):* `0bac1edc867d3f91a5ca0475da53d1858cf1d451f0e37354df4288f340634a46`
 *Blockchain confirmation (Polygon Mainnet):*
 *• Owner: [`0xA39E77B0871C39518059ED0F517fb139cBd67EAb`](https://polygonscan.com/address/0xA39E77B0871C39518059ED0F517fb139cBd67EAb)*
 *• Transaction: [`0xe0b59abc1c98af7293d8d8848c393f96a35059895605e9b770d284003bf4a529`](https://polygonscan.com/tx/0xe0b59abc1c98af7293d8d8848c393f96a35059895605e9b770d284003bf4a529)*
@@ -66,7 +66,32 @@ This document serves as digital proof of authorship and first implementation in 
 
 ---
 *Document created and signed with the project's digital fingerprint.*
-*Proof of Origin document hash (SHA256): e15b184fa84e8a06bc0419b616e4f017ba5c60ad0a5d4bef4b227ab52e6e0815
+*Proof of Origin document hash (SHA256):* `e15b184fa84e8a06bc0419b616e4f017ba5c60ad0a5d4bef4b227ab52e6e0815`
+
+### 📝 Version History
+
+#### Version 1.0 (Initial Proof)
+*Date: December 15, 2025*
+*Status: ARCHIVED*
+*Hash:* `460b7e24751392b2f37dd759106c310a951e61701c4d9ed254c4eed16ca6417f`
+*Note: Original archive file was deleted*
+
+#### Version 2.0 (Enhanced Proof)
+*Date: December 15, 2025*
+*Status: SUPERSEDED*
+*Hash:* `e15b184fa84e8a06bc0419b616e4f017ba5c60ad0a5d4bef4b227ab52e6e0815`
+*Archive: digital-notary-proof-20241215-v2.zip*
+
+#### Version 3.0 (Source Code Proof)
+*Date: December 15, 2025*
+*Status: BLOCKCHAIN-VERIFIED*
+*Hash: `0bac1edc867d3f91a5ca0475da53d1858cf1d451f0e37354df4288f340634a46`
+*Blockchain TX:* `0xe0b59abc1c98af7293d8d8848c393f96a35059895605e9b770d284003bf4a529`
+*Archive: BackUpMyProjectDN.zip*
+
+---
+*Document created and signed with the project's digital fingerprint.*
+*Current document hash (SHA256):* `e15b184fa84e8a06bc0419b616e4f017ba5c60ad0a5d4bef4b227ab52e6e0815`
 
 
 
