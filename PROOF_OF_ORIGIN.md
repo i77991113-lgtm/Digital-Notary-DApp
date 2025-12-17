@@ -55,6 +55,12 @@
 *• Network: Polygon Mainnet*
 *• Code archive: BackUpMyProjectDN.zip*
 
+#### Proof #3: Proof of Origin Package (v5.0)
+*Proof package hash (SHA256):* `0e40f7c8311dbb1c789c3b1182df4f2fbb38193927a0f3e8ea540e119bec6dee`
+*Archive: digital-notary-proof-15-12-2025-v4.zip*
+*Contents: Complete Proof of Origin document package with full version history*
+*Created: December 17, 2025*
+
 ### ⚖️ Legal Status:
 This document serves as digital proof of authorship and first implementation in creating the Digital Notary DApp project. All implementations appearing after December 14, 2025 are derivatives of this work.
 
@@ -63,6 +69,8 @@ This document serves as digital proof of authorship and first implementation in 
 2. **Working Application:** https://digitalnotary.online
 3. **Main Contract Deployment:** https://polygonscan.com/tx/0x4db79abb000a8db7d56f38f647b5b1c037824cbad76b95e45fa1eb0c909a8ffb
 4. **Code Registration Transaction:** https://polygonscan.com/tx/0xe0b59abc1c98af7293d8d8848c393f96a35059895605e9b770d284003bf4a529
+5. **Website Update Registration:** https://polygonscan.com/tx/0x016bff5ae05908e65d6ec9e7b5f7c2624029de34a43f19bf33d722884e690753
+
 
 ### 📝 Version History
 
@@ -106,5 +114,7 @@ This document serves as digital proof of authorship and first implementation in 
 *Purpose: Proof of website update (new version) including all root files and updated `index.html` as of December 17, 2025.*
 
 ---
-*Current repository archive hash (SHA256):* `[ЗДЕСЬ БУДЕТ ХЭШ АРХИВА РЕПОЗИТОРИЯ]`
-*Note: This hash represents the complete repository archive (Digital-Notarius-Repository-17-12-2025.zip) containing this Proof of Origin document and all source files as of December 17, 2025.*
+*Current Proof of Origin package hash (SHA256):* `0e40f7c8311dbb1c789c3b1182df4f2fbb38193927a0f3e8ea540e119bec6dee`
+*Archive: digital-notary-proof-15-12-2025-v4.zip*
+*Contents: PROOF_OF_ORIGIN.md, README.md, ANNOUNCEMENT_DRAFT.md*
+*Note: This hash represents the complete Proof of Origin package containing this document and all supporting proof files as of December 17, 2025.*
