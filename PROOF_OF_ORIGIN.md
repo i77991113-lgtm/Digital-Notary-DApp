@@ -2,7 +2,7 @@
 ## Proof of Authorship and First Implementation
 
 ### 📅 Document Creation Date: December 14, 2025
-### 📅 Last Updated: December 21, 2025
+### 📅 Last Updated: December 21, 2025 23:59 UTC
 
 ### 👤 Project Author:
 - **Name/Pseudonym:** Ivan
@@ -121,16 +121,23 @@ This document serves as digital proof of authorship and first implementation in 
 *Archive:* `BackUpMyProjectDN-17-12-2025-v2.zip`
 *Purpose: Proof of website update including all production files as of December 17, 2025.*
 
-#### Version 6.0 (Website Update Proof) ← CURRENT
+#### Version 6.0 (Website Update Proof)
 *Date: December 21, 2025*
 *Status: BLOCKCHAIN-VERIFIED*
 *Hash:* `459565053f748f73596913e0977d120b0a0ba7cdacb6a8134ef043e2574c67f7`
 *Archive:* `BackUpMyProjectDN-21-12-2025-v3.zip`
 *Purpose: Complete source code backup for Digital Notary DApp v5.0 as of December 21, 2025.*
 
+#### Version 7.0 (Updated Proof of Origin) ← CURRENT
+*Date: December 21, 2025*
+*Status: ACTIVE*
+*Hash:* `69b636b25041bfb780dbd6006e26a7abc68c28211f3e7de4770f2982194833fa`
+*Archive:* `digital-notary-proof-21-12-2025-v6.zip`
+*Purpose: Updated and corrected Proof of Origin document with proper structure and verification.*
+
 ---
 **Current Proof of Origin Document**
-*Document hash (SHA256):* `1c01867e50119876b29a63031aa4f0163764cec776b12113fcebcaf37d15646b`
-*Archive:* `digital-notary-proof-21-12-2025-v5.zip`
+*Document hash (SHA256):* `69b636b25041bfb780dbd6006e26a7abc68c28211f3e7de4770f2982194833fa`
+*Archive:* `digital-notary-proof-21-12-2025-v6.zip`
 *Contents:* PROOF_OF_ORIGIN.md, README.md, ANNOUNCEMENT_DRAFT.md
 *Created:* December 21, 2025
