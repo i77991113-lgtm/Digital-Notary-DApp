@@ -2,7 +2,7 @@
 ## Proof of Authorship and First Implementation
 
 ### 📅 Document Creation Date: December 14, 2025
-### 📅 Last Updated: December 17, 2025
+### 📅 Last Updated: December 21, 2025
 
 ### 👤 Project Author:
 - **Name/Pseudonym:** Ivan
@@ -100,7 +100,7 @@ This document serves as digital proof of authorship and first implementation in 
 *Hash:* `c8951ebd3f35e68c28e2a51f593381443cb3863ca21659c76e6a05e970fc799e`
 *Archive: digital-notary-proof-15-12-2025-v3.zip`
 
-#### Version 5.0 (Website Update Proof) ← CURRENT
+#### Version 5.0 (Website Update Proof) 
 *Date: December 17, 2025*
 *Status: BLOCKCHAIN-VERIFIED*
 *Hash:* `dfa420989808cf4230acf6e40af74129df5c9779fca24e01aa6bce95b47b7d32`
@@ -113,8 +113,27 @@ This document serves as digital proof of authorship and first implementation in 
 *• Network: Polygon Mainnet*
 *Purpose: Proof of website update (new version) including all root files and updated `index.html` as of December 17, 2025.*
 
+## Version 6.0 (Website Update Proof) ← CURRENT
+Date: December 21, 2025
+Status: BLOCKCHAIN-VERIFIED
+Hash: 459565053f748f73596913e0977d120b0a0ba7cdacb6a8134ef043e2574c67f7
+Archive: BackUpMyProjectDN-21-12-2025-v3.zip
+
+Blockchain confirmation (Polygon Mainnet):
+• Owner: 0xA39E77B0871C39518059ED0F517fb139cBd67EAb
+• Transaction: 0xfe5ea8e14a1121e4273bce4b256acf446cab696881179c21925cda1745c117d6
+• Block: #80609269
+• Registration date: December 21, 2025, 20:22:11 UTC
+• Network: Polygon Mainnet
+
+Purpose: Third backup of complete source code for Digital Notary DApp v5.0, containing all production files as of December 21, 2025. Includes the fully functional application with multilingual support, 3 blockchain networks integration, and commit-reveal protection system.
+
+Verification Links:
+• Transaction: https://polygonscan.com/tx/0xfe5ea8e14a1121e4273bce4b256acf446cab696881179c21925cda1745c117d6
+• Block: https://polygonscan.com/block/80609269
+
 ---
-*Current Proof of Origin package hash (SHA256):* `0e40f7c8311dbb1c789c3b1182df4f2fbb38193927a0f3e8ea540e119bec6dee`
-*Archive: digital-notary-proof-15-12-2025-v4.zip*
+*Current Proof of Origin package hash (SHA256):* `[ВАШ_НОВЫЙ_ХЕШ_ТУТ]`
+*Archive: digital-notary-proof-21-12-2025-v5.zip*
 *Contents: PROOF_OF_ORIGIN.md, README.md, ANNOUNCEMENT_DRAFT.md*
-*Note: This hash represents the complete Proof of Origin package containing this document and all supporting proof files as of December 17, 2025.*
+*Note: This hash represents the complete Proof of Origin package containing this document and all supporting proof files as of December 21, 2025.*
