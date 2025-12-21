@@ -14,7 +14,7 @@
 
 ### 🔐 Unique Features of MY Implementation:
 1. **Commit-Reveal with Commit Overwrite** - protection against front-running attacks
-2. **Support for 7 Blockchain Networks** (Polygon, Ethereum, Optimism, Arbitrum, Base, Sepolia, Amoy)
+2. **Support for 3 Blockchain Networks** (Polygon, Sepolia, Amoy)
 3. **Complete Legally Significant Cycle** (registration → verification → rights transfer)
 4. **Automatic Balance Check** and smart notifications
 5. **PWA-Ready Application** with offline functionality
@@ -44,8 +44,9 @@
 #### Proof #1: Project Documentation
 *Documentation snapshot hash (SHA256):* `460b7e24751392b2f37dd759106c310a951e61701c4d9ed254c4eed16ca6417f`
 *Created: December 15, 2025*
+*Archive: digital-notary-proof-15-12-2025.zip*
 
-#### Proof #2: Source Code
+#### Proof #2: Initial Source Code (Version 3.0)
 *Source code hash (SHA256):* `0bac1edc867d3f91a5ca0475da53d1858cf1d451f0e37354df4288f340634a46`
 *Blockchain confirmation (Polygon Mainnet):*
 *• Owner: [`0xA39E77B0871C39518059ED0F517fb139cBd67EAb`](https://polygonscan.com/address/0xA39E77B0871C39518059ED0F517fb139cBd67EAb)*
@@ -55,11 +56,25 @@
 *• Network: Polygon Mainnet*
 *• Code archive: BackUpMyProjectDN.zip*
 
-#### Proof #3: Proof of Origin Package (v5.0)
-*Proof package hash (SHA256):* `0e40f7c8311dbb1c789c3b1182df4f2fbb38193927a0f3e8ea540e119bec6dee`
-*Archive: digital-notary-proof-15-12-2025-v4.zip*
-*Contents: Complete Proof of Origin document package with full version history*
-*Created: December 17, 2025*
+#### Proof #3: Source Code Update (Version 5.0)
+*Source code hash (SHA256):* `dfa420989808cf4230acf6e40af74129df5c9779fca24e01aa6bce95b47b7d32`
+*Blockchain confirmation (Polygon Mainnet):*
+*• Owner: [`0xA39E77B0871C39518059ED0F517fb139cBd67EAb`](https://polygonscan.com/address/0xA39E77B0871C39518059ED0F517fb139cBd67EAb)*
+*• Transaction: [`0x016bff5ae05908e65d6ec9e7b5f7c2624029de34a43f19bf33d722884e690753`](https://polygonscan.com/tx/0x016bff5ae05908e65d6ec9e7b5f7c2624029de34a43f19bf33d722884e690753)*
+*• Block: [`#80420981`](https://polygonscan.com/block/80420981)*
+*• Registration date: December 17, 2025, 09:54:55 UTC*
+*• Network: Polygon Mainnet*
+*• Code archive: BackUpMyProjectDN-17-12-2025-v2.zip*
+
+#### Proof #4: Source Code Update (Version 6.0)
+*Source code hash (SHA256):* `459565053f748f73596913e0977d120b0a0ba7cdacb6a8134ef043e2574c67f7`
+*Blockchain confirmation (Polygon Mainnet):*
+*• Owner: [`0xA39E77B0871C39518059ED0F517fb139cBd67EAb`](https://polygonscan.com/address/0xA39E77B0871C39518059ED0F517fb139cBd67EAb)*
+*• Transaction: [`0xfe5ea8e14a1121e4273bce4b256acf446cab696881179c21925cda1745c117d6`](https://polygonscan.com/tx/0xfe5ea8e14a1121e4273bce4b256acf446cab696881179c21925cda1745c117d6)*
+*• Block: [`#80609269`](https://polygonscan.com/block/80609269)*
+*• Registration date: December 21, 2025, 20:22:11 UTC*
+*• Network: Polygon Mainnet*
+*• Code archive: BackUpMyProjectDN-21-12-2025-v3.zip*
 
 ### ⚖️ Legal Status:
 This document serves as digital proof of authorship and first implementation in creating the Digital Notary DApp project. All implementations appearing after December 14, 2025 are derivatives of this work.
@@ -68,9 +83,9 @@ This document serves as digital proof of authorship and first implementation in 
 1. **GitHub Repository:** https://github.com/i77991113-lgtm/Digital-Notarius/
 2. **Working Application:** https://digitalnotary.online
 3. **Main Contract Deployment:** https://polygonscan.com/tx/0x4db79abb000a8db7d56f38f647b5b1c037824cbad76b95e45fa1eb0c909a8ffb
-4. **Code Registration Transaction:** https://polygonscan.com/tx/0xe0b59abc1c98af7293d8d8848c393f96a35059895605e9b770d284003bf4a529
-5. **Website Update Registration:** https://polygonscan.com/tx/0x016bff5ae05908e65d6ec9e7b5f7c2624029de34a43f19bf33d722884e690753
-
+4. **Code Registration (15 Dec):** https://polygonscan.com/tx/0xe0b59abc1c98af7293d8d8848c393f96a35059895605e9b770d284003bf4a529
+5. **Code Update (17 Dec):** https://polygonscan.com/tx/0x016bff5ae05908e65d6ec9e7b5f7c2624029de34a43f19bf33d722884e690753
+6. **Code Update (21 Dec):** https://polygonscan.com/tx/0xfe5ea8e14a1121e4273bce4b256acf446cab696881179c21925cda1745c117d6
 
 ### 📝 Version History
 
@@ -78,7 +93,6 @@ This document serves as digital proof of authorship and first implementation in 
 *Date: December 15, 2025*
 *Status: ARCHIVED*
 *Hash:* `460b7e24751392b2f37dd759106c310a951e61701c4d9ed254c4eed16ca6417f`
-*Note: Original archive file was deleted*
 *Archive: digital-notary-proof-15-12-2025.zip*
 
 #### Version 2.0 (Enhanced Proof)
@@ -92,48 +106,31 @@ This document serves as digital proof of authorship and first implementation in 
 *Status: BLOCKCHAIN-VERIFIED*
 *Hash:* `0bac1edc867d3f91a5ca0475da53d1858cf1d451f0e37354df4288f340634a46`
 *Blockchain TX:* `0xe0b59abc1c98af7293d8d8848c393f96a35059895605e9b770d284003bf4a529`
-*Archive: BackUpMyProjectDN.zip`
+*Archive: BackUpMyProjectDN.zip*
 
 #### Version 4.0 (Complete Proof)
 *Date: December 15, 2025*
 *Status: ACTIVE*
 *Hash:* `c8951ebd3f35e68c28e2a51f593381443cb3863ca21659c76e6a05e970fc799e`
-*Archive: digital-notary-proof-15-12-2025-v3.zip`
+*Archive: digital-notary-proof-15-12-2025-v3.zip*
 
 #### Version 5.0 (Website Update Proof) 
 *Date: December 17, 2025*
 *Status: BLOCKCHAIN-VERIFIED*
 *Hash:* `dfa420989808cf4230acf6e40af74129df5c9779fca24e01aa6bce95b47b7d32`
 *Archive:* `BackUpMyProjectDN-17-12-2025-v2.zip`
-*Blockchain confirmation (Polygon Mainnet):*
-*• Owner: [`0xA39E77B0871C39518059ED0F517fb139cBd67EAb`](https://polygonscan.com/address/0xA39E77B0871C39518059ED0F517fb139cBd67EAb)*
-*• Transaction: [`0x016bff5ae05908e65d6ec9e7b5f7c2624029de34a43f19bf33d722884e690753`](https://polygonscan.com/tx/0x016bff5ae05908e65d6ec9e7b5f7c2624029de34a43f19bf33d722884e690753)*
-*• Block: [`#80420981`](https://polygonscan.com/block/80420981)*
-*• Registration date: December 17, 2025, 09:54:55 UTC*
-*• Network: Polygon Mainnet*
-*Purpose: Proof of website update (new version) including all root files and updated `index.html` as of December 17, 2025.*
+*Purpose: Proof of website update including all production files as of December 17, 2025.*
 
-## Version 6.0 (Website Update Proof) ← CURRENT
-Date: December 21, 2025
-Status: BLOCKCHAIN-VERIFIED
-Hash: 459565053f748f73596913e0977d120b0a0ba7cdacb6a8134ef043e2574c67f7
-Archive: BackUpMyProjectDN-21-12-2025-v3.zip
-
-Blockchain confirmation (Polygon Mainnet):
-• Owner: 0xA39E77B0871C39518059ED0F517fb139cBd67EAb
-• Transaction: 0xfe5ea8e14a1121e4273bce4b256acf446cab696881179c21925cda1745c117d6
-• Block: #80609269
-• Registration date: December 21, 2025, 20:22:11 UTC
-• Network: Polygon Mainnet
-
-Purpose: Third backup of complete source code for Digital Notary DApp v5.0, containing all production files as of December 21, 2025. Includes the fully functional application with multilingual support, 3 blockchain networks integration, and commit-reveal protection system.
-
-Verification Links:
-• Transaction: https://polygonscan.com/tx/0xfe5ea8e14a1121e4273bce4b256acf446cab696881179c21925cda1745c117d6
-• Block: https://polygonscan.com/block/80609269
+#### Version 6.0 (Website Update Proof) ← CURRENT
+*Date: December 21, 2025*
+*Status: BLOCKCHAIN-VERIFIED*
+*Hash:* `459565053f748f73596913e0977d120b0a0ba7cdacb6a8134ef043e2574c67f7`
+*Archive:* `BackUpMyProjectDN-21-12-2025-v3.zip`
+*Purpose: Complete source code backup for Digital Notary DApp v5.0 as of December 21, 2025.*
 
 ---
-*Current Proof of Origin package hash (SHA256):* `[ВАШ_НОВЫЙ_ХЕШ_ТУТ]`
-*Archive: digital-notary-proof-21-12-2025-v5.zip*
-*Contents: PROOF_OF_ORIGIN.md, README.md, ANNOUNCEMENT_DRAFT.md*
-*Note: This hash represents the complete Proof of Origin package containing this document and all supporting proof files as of December 21, 2025.*
+**Current Proof of Origin Document**
+*Document hash (SHA256):* `1c01867e50119876b29a63031aa4f0163764cec776b12113fcebcaf37d15646b`
+*Archive:* `digital-notary-proof-21-12-2025-v5.zip`
+*Contents:* PROOF_OF_ORIGIN.md, README.md, ANNOUNCEMENT_DRAFT.md
+*Created:* December 21, 2025
