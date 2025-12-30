@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "Digital Notary DApp",
+  "version": "1.0.1",
+  "description": "Blockchain copyright registration service",
+  
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  
+  "action": {
+    "default_icon": "icons/icon16.png",
+    "default_title": "Digital Notary DApp",
+    "default_popup": "popup.html"
+  },
+  
+  "permissions": []
+}
