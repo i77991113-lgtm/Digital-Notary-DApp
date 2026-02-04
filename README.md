@@ -52,5 +52,21 @@ This document serves as a cryptographically-verifiable record of the project's d
 ## 📄 License
 This project's **documentation and open components** are provided for transparency. For specific licensing of the application code, please contact the author.
 
+## 📸 Application Screenshots
+
+### 1. Mobile Interface
+![Main mobile interface showing network selection and content capture](screenshots/1-mobile-welcome-interface.png)
+
+### 2. Content Capture
+![Screen for capturing photos, videos, or selecting files from device](screenshots/2-content-capture.jpg)
+
+### 3. Hash Calculation
+![Client-side SHA-256 hash generation with file metadata](screenshots/3-hash-calculation.jpg)
+
+### 4. Registration Method Selection
+![Choosing between Direct or Commit-Reveal registration modes](screenshots/4-registration-method.jpg)
+
+### 5. Final Registration Report
+![Complete on-chain registration report with verification details](screenshots/5-final-report.jpg)
 ---
 **Built independently from scratch in 4 months.**
