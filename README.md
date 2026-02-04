@@ -1,51 +1,56 @@
-# 🔏 Digital Notary DApp
+# Digital Notary DApp | On-Chain Proof of Existence & Authorship
 
-> A decentralized blockchain notary service. Register copyright for any digital content in 1 minute.
+A production-ready, mobile-first decentralized application (DApp) that turns any smartphone into a "pocket notary." Instantly create tamper-proof, timestamped proof for any digital content on the Polygon blockchain.
 
-[![Live Application](https://img.shields.io/badge/Live_Application-digitalnotary.online-brightgreen)](https://digitalnotary.online)
-[![Blockchain Proof](https://img.shields.io/badge/Blockchain_Proof-Polygon_Mainnet-blue)](https://polygonscan.com/tx/0xe0b59abc1c98af7293d8d8848c393f96a35059895605e9b770d284003bf4a529)
+🌐 **Live DApp:** [digitalnotary.online](https://digitalnotary.online)
+🔌 **Firefox Extension:** [Available on addons.mozilla.org](https://addons.mozilla.org/ru/firefox/addon/digital-notary/)
+📱 **Android App:** In Internal Testing (Google Play)
+📜 **Smart Contract (Polygon):** [`0xEa6130eBe3c79fa7f209568030EC78Ac321890C4`](https://polygonscan.com/address/0xEa6130eBe3c79fa7f209568030EC78Ac321890C4)
 
-## 🌐 Live Application
-**Available at:** [https://digitalnotary.online](https://digitalnotary.online)
-
-## 🚀 Problem & Solution
-Proving you were the first to create a piece of code, a design, or any digital asset can be difficult and legally complex. **Digital Notary DApp** solves this by allowing you to create a tamper-proof, timestamped proof of authorship on the blockchain in under 60 seconds, using a secure commit-reveal mechanism.
+## 🎯 The Problem & Solution
+Proving you were the first to create a digital asset — a photo, video, code, or document — is often slow and legally complex. This DApp solves it by allowing you to create an immutable, on-chain timestamp **in under 60 seconds**, using a secure commit-reveal mechanism to protect priority.
 
 ## ✨ Key Features
-- **⚡ Instant Registration:** Get a blockchain timestamp for your work in about a minute.
-- **🔐 Secure Commit-Reveal:** Patented technology protects against front-running and ensures your proof is recorded first.
-- **⚖️ Legally Significant:** A permanent, immutable record on the Polygon blockchain serves as robust evidence.
-- **🌐 Multi-Chain Support:** Deployed and functional across multiple testnets and mainnets (Polygon, Ethereum Sepolia, Polygon Amoy).
+*   **Any Content, Any Size:** Register photos, videos, documents, audio — directly from your device.
+*   **Two Registration Schemes:**
+    *   **Direct:** Instant on-chain timestamp.
+    *   **Commit-Reveal:** Protection against front-running for sensitive or high-value content.
+*   **Privacy-First:** Only the cryptographic hash is stored on-chain; the original content never leaves your device.
+*   **Multi-Network Support:** Deployed on Polygon Mainnet, Sepolia, and Amoy testnets (for learning).
+*   **Full Verifiability:** Every registration is independently verifiable via Polygonscan.
+*   **Mobile-First:** PWA-ready frontend and dedicated Android app in development.
 
-## 🛡️ Proof of First & Authenticity
-This project is the original implementation. Comprehensive cryptographic proof of authorship, deployment history, and code verification is documented and publicly available.
+## 🏗️ Architecture & Tech Stack
+*   **Smart Contracts:** Solidity, OpenZeppelin Libraries. Deployed on Polygon (EVM).
+*   **Frontend:** Vanilla HTML, CSS, JavaScript (Ethers.js). Pure client-side for maximum privacy.
+*   **Hosting & Deployment:** Frontend on Netlify (CI/CD), indexed by Google.
+*   **Browser Extension:** Firefox WebExtensions API.
+*   **Android:** Native app (internal testing stage).
 
-**👉 View the complete, verifiable proof chain here: [PROOF_OF_ORIGIN.md](./PROOF_OF_ORIGIN.md)**
+## 📁 Project Structure (Overview)
 
-The document includes:
-- SHA256 hashes of all project snapshots.
-- Blockchain transaction IDs for code registration on Polygon Mainnet.
-- Contract deployment addresses and dates.
-- A full version history of the project's development.
+Digital-Notary-DApp/
+├── contracts/ # Solidity smart contracts (see PROOF_OF_ORIGIN for details)
+├── frontend/ # HTML/JS/CSS source for the live web app
+├── extension/ # Firefox extension source code
+└── docs/ # Documentation and Proof of Origin
 
-## 🛠️ Technology Stack
-- **Frontend:** HTML, CSS, JavaScript (Pure client-side DApp)
-- **Smart Contracts:** Solidity, OpenZeppelin Contracts (for security & standards)
-- **Blockchain Networks:** Polygon Mainnet, Ethereum (Sepolia), Polygon (Amoy)
-- **Deployment:** Frontend on Netlify, Contracts on multiple chains
+ **Note on Source Code Access:** The core, production-ready source code for the smart contracts and frontend is **publicly verifiable**. The hashes of all critical snapshots are immutably registered on the Polygon Mainnet. See [PROOF_OF_ORIGIN.md](PROOF_OF_ORIGIN.md) for complete transparency and verification steps. For specific business inquiries, contact is available.
 
-## 🔐 Access to Source Code
-The complete source code (smart contracts + frontend) is maintained in a private repository for intellectual property protection.
+## 🚀 For Developers: Verification & Transparency
+This project is built on transparency. All deployment steps and code milestones are documented:
+1.  **Contract Addresses** and **deployment transactions** are listed in `PROOF_OF_ORIGIN.md`.
+2.  **SHA256 hashes** of major code versions are registered on-chain.
+3.  You can verify the live application's functionality against the contract on Polygonscan.
 
-**Verification Process:** The SHA256 hash of the complete source code is permanently and immutably registered on the **Polygon Mainnet**. Any serious investor or partner can verify the provided code against this on-chain hash.
+## 🔗 Proof of Origin & First Implementation
+A detailed, technical log of the project's creation, including all blockchain transactions and version history, is maintained in:
+[**PROOF_OF_ORIGIN.md**](PROOF_OF_ORIGIN.md)
 
-**For due diligence access under NDA, please contact:** [i77991113@gmail.com](mailto:i77991113@gmail.com)
+This document serves as a cryptographically-verifiable record of the project's development timeline.
 
-## 📞 Contact & Verification
-- **Author:** Ivan
-- **GitHub:** [i77991113-lgtm](https://github.com/i77991113-lgtm)
-- **Email for Verification:** [i77991113@gmail.com](mailto:i77991113@gmail.com)
-- **Primary Proof Document:** [PROOF_OF_ORIGIN.md](./PROOF_OF_ORIGIN.md)
+## 📄 License
+This project's **documentation and open components** are provided for transparency. For specific licensing of the application code, please contact the author.
 
 ---
-*This repository serves as the public proof of concept and verification hub for the Digital Notary DApp project. The application is under active development.*
+**Built independently from scratch in 4 months.**
